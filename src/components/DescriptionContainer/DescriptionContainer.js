@@ -13,7 +13,7 @@ export const DesciptionContainer = () => {
             </DescriptionBox>
 
             <DescriptionBox size={95}>
-                <ion-icon name="people-outline"></ion-icon>
+                <ion-icon name="earth-outline"></ion-icon>
                 <Content>
                     <ContentTitle>Search</ContentTitle>
                     <Text>In-depth agency search covering; <p>criteria matching</p>, door knocking and due-dilligence vetting.</Text>
